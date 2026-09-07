@@ -11,7 +11,7 @@
 }
 
 * {
-  box-sizing: border-box;
+  box-sizing:border-box;
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
@@ -21,4 +21,4 @@ body {
   background-color: var(--bg-color);
   color: var(--text-main);
   min-height: 100vh;
-}# this is an css of this code  second
+}
