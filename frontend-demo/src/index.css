@@ -8,15 +8,15 @@
   --border-color: #e2e8f0;
   --success: #16a34a;
   --danger: #dc2626;
-}
-
-* {
+}  
+this is css code   
+* {dhfjghjuktjhdffcgw4g
   box-sizing:border-box;
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
-
+ mn   
 body {
   background-color: var(--bg-color);
   color: var(--text-main);
